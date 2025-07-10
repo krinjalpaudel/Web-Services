@@ -2,17 +2,13 @@
 
 ##Subject: Web Services and Application
 
-##Student: 
+###Student: 
+###Name: Krinjal Paudel
+###Roll No: 201715
+###Semester: 8th
+###Faculty: Software
 
-##Name: Krinjal Paudel
-
-##Roll No: 201715
-
-##Semester: 8th
-
-##Faculty: Software
-
---
+---
 
 ##Project Overview
 
@@ -41,3 +37,5 @@ All data is handled through RESTful API endpoints and stored in a relational dat
 ->**Docker Compose** -	Managing the development environment
 
 ->**SQLite**
+
+---
