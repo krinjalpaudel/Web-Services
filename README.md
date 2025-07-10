@@ -13,6 +13,7 @@ Semester: 8th
 Faculty: Software
 
 Project Overview
+
 This is a Django REST Framework-based backend system designed to manage core data for a college environment. The project provides API endpoints to manage:
 
 -Departments 
