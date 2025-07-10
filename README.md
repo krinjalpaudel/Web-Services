@@ -25,7 +25,7 @@ All data is handled through RESTful API endpoints and stored in a relational dat
 
 ---
 
-##Technologies Used:
+## Technologies Used:
 
 -> **Python 3.10**
 
