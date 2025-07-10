@@ -1,6 +1,7 @@
 College Management API Project
 
 Subject: Web Services and Application
+
 Student: 
 
 Name: Krinjal Paudel
@@ -14,28 +15,28 @@ Faculty: Software
 Project Overview
 This is a Django REST Framework-based backend system designed to manage core data for a college environment. The project provides API endpoints to manage:
 
-Departments 
+-Departments 
 
-Teachers
+-Teachers
 
-Courses 
+-Courses 
 
-Students
+-Students
 
 All data is handled through RESTful API endpoints and stored in a relational database (default: SQLite, Docker-ready for PostgreSQL).
 
-Technologies Used
+Technologies Used:
 
-Python 3.10	Main programming language
+->Python 3.10	Main programming language
 
-Django	Backend framework
+->Django	Backend framework
 
-Django REST Framework	For creating the RESTful APIs
+->Django REST Framework	For creating the RESTful APIs
 
-Pillow	Python Imaging Library (for image fields)
+->Pillow	Python Imaging Library (for image fields)
 
-Docker	Containerization of the app
+->Docker	Containerization of the app
 
-Docker Compose	Managing the development environment
+->Docker Compose	Managing the development environment
 
-SQLite
+->SQLite
