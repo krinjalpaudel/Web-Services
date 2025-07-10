@@ -1,20 +1,22 @@
-College Management API Project
+#College Management API Project
 
-Subject: Web Services and Application
+##Subject: Web Services and Application
 
-Student: 
+##Student: 
 
-Name: Krinjal Paudel
+##Name: Krinjal Paudel
 
-Roll No: 201715
+##Roll No: 201715
 
-Semester: 8th
+##Semester: 8th
 
-Faculty: Software
+##Faculty: Software
 
-Project Overview
+--
 
-This is a Django REST Framework-based backend system designed to manage core data for a college environment. The project provides API endpoints to manage:
+##Project Overview
+
+This is a **Django REST Framework**-based backend system designed to manage core data for a college environment. The project provides API endpoints to manage:
 
 -Departments 
 
@@ -26,18 +28,16 @@ This is a Django REST Framework-based backend system designed to manage core dat
 
 All data is handled through RESTful API endpoints and stored in a relational database (default: SQLite, Docker-ready for PostgreSQL).
 
-Technologies Used:
+##Technologies Used:
 
-->Python 3.10	Main programming language
+->**Python 3.10**
 
-->Django	Backend framework
+->**Django** -	Backend framework
 
-->Django REST Framework	For creating the RESTful APIs
+->**Django REST Framework** -	For creating the RESTful APIs
 
-->Pillow	Python Imaging Library (for image fields)
+->**Docker** -	Containerization of the app
 
-->Docker	Containerization of the app
+->**Docker Compose** -	Managing the development environment
 
-->Docker Compose	Managing the development environment
-
-->SQLite
+->**SQLite**
